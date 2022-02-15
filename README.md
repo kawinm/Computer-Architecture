@@ -1,2 +1,3 @@
 # Computer Architecture
- Professor: Govindarajan, Arkaprava Basu
+Attended at Indian Institute of Science, Bangalore
+Professor: Govindarajan Ramasamy, Arkaprava Basu
